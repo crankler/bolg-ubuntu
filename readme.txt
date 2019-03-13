@@ -1,5 +1,11 @@
-Git is a version control system.
-Git is free software.
-2018.3.13
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
+Github操作
+
+本地端
+git init
+git add .file
+git commit -m "add new files"
+
+远程端
+git remote add origin git@github.com:crankler/bolg-ubuntu.git
+git push -u origin master
+
