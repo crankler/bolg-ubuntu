@@ -7,21 +7,25 @@
 ### 三级
 #### 四级
 
-
-
 加粗使用 **XXX**
 斜线是加三个***
 **wode**
 ***de***
 
 引入字段使用尖角号 >
->dwdw 
-
->>de 
 
 
 
 
 
-![git branch](/home/hitnuc/git_learn/picture/0.png)
+eg:
+##### 绝对路径和相对路径：
+>“./” 代表当前目录 
+>“../” 代表上一级目录
+>“/”   当前根目录，是相对目录；
+>“~/”  Web 应用程序根目录。
+
+
+
+![git branch](./picture/0.png)
 
