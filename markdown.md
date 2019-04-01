@@ -1,4 +1,5 @@
-##尝试用markdown 写东西
+
+****尝试用markdown 写东西****
 
 **1.标题**
 
@@ -35,12 +36,17 @@
 
 **6.图片**
 一个仓库的不同分支
+
+
 ![git branch](./picture/0.png)
 
 
 
 **7.链接**
+
 [markdown 语法](https://www.appinn.com/markdown/)
+
+
 [高鸿祥](https://www.jianshu.com/p/191d1e21f7ed)
 
 
@@ -74,6 +80,8 @@
    - 二级有序列表内容
 
 **9.表格**
+
+
 表头|表头|表头
 ---|:--:|---:
 内容|内容|内容
